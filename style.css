@@ -1,0 +1,61 @@
+body{
+text-align: center;
+background-image: linear-gradient(cyan, rgb(0, 252, 105));
+color: white;
+}
+
+.heading{
+box-shadow: 5px 5px 18px blue;
+font-size: 19px;
+width: 75%;
+}
+
+#L{
+text-shadow: 3px 1px red;
+}
+
+#E{
+text-shadow: 3px 1px blue;
+}
+
+#N{
+text-shadow: 3px 1px green;
+}
+
+#S{
+text-shadow: 3px 1px yellow;
+}
+
+#logo{
+width: 25px;
+height: 25px;
+}
+
+.test_div{
+background-image: linear-gradient(to left, rgb(241, 173, 173), rgb(155, 217, 247));
+height: 400px;
+}
+
+
+.image{
+margin-right: 50px;
+border-style: ridge;
+border-width: 3px;
+width: 200px;
+height: 200px;
+}
+
+.ogl{
+margin-left: 50px;
+}
+
+.omn{
+margin-left: 50px;
+}
+
+.result_div{
+background-image: linear-gradient(to left, rgb(241, 173, 173), rgb(155, 217, 247));
+height: 200px;
+}
+
+
